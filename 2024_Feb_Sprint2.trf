@@ -1,0 +1,14 @@
+Test Month: February 2024
+Sprint: 2
+
+Feature_Name = Steering
+Status = FAIL
+Measured_Value = 0.65
+Remarks = Alignment issue
+
+---
+
+Feature_Name = Braking
+Status = PASS
+Measured_Value = 0.88
+Remarks = OK

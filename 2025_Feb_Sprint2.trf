@@ -1,0 +1,48 @@
+========================================
+TRACTOR TEST REPORT FILE (.trf)
+Test Month: February 2025
+Sprint: 2
+========================================
+
+[VEHICLE_INFO]
+Model = TX-450
+SerialNumber = JDX450-99231
+Plant = Pune
+
+----------------------------------------
+
+[FEATURE_TEST]
+
+Feature_Name = Steering
+Test_ID = STR-001
+Status = PASS
+Measured_Value = 0.87
+Remarks = Working normally
+
+---
+
+Feature_Name = Braking
+Test_ID = BRK-002
+Status = FAIL
+Measured_Value = 0.45
+Remarks = Hydraulic pressure low
+
+---
+
+Feature_Name = Engine_Vibration
+Test_ID = ENG-003
+Status = PASS
+Measured_Value = 0.91
+Remarks = Stable
+
+---
+
+Feature_Name = Headlight_System
+Test_ID = LGT-004
+Status = PASS
+Measured_Value = 1.00
+Remarks = OK
+
+----------------------------------------
+
+[END_OF_REPORT]

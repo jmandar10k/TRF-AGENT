@@ -1,0 +1,14 @@
+Test Month: March 2024
+Sprint: 1
+
+Feature_Name = Steering
+Status = PASS
+Measured_Value = 0.90
+Remarks = Stable
+
+---
+
+Feature_Name = Engine_Vibration
+Status = FAIL
+Measured_Value = 0.60
+Remarks = Excess vibration
